@@ -1,1 +1,3 @@
-<image-card alt="Ghost" src="ghostpwn-logo.svg" ></image-card>
+<p align="left">
+  <img src="ghostpwn-logo.svg" alt="Ghost" width="200">
+</p>

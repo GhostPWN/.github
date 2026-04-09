@@ -1,7 +1,7 @@
 <table align="center">
 <tr>
 <td valign="top" width="200">
-<img src="ghostpwn-logo.svg" alt="GhostPwn" width="200">
+<img src="logo.svg" alt="GhostPwn" width="200">
 </td>
 <td align="right">
 <pre>

@@ -22,14 +22,14 @@
 </table>
 
 <p align="center">
-  <strong>Autonomous Web Penetration Testing Agent</strong><br>
+  <strong>Autonomous Penetration Testing Agent</strong><br>
   <em>Multi-provider LLM support · Human-in-the-loop · Lightweight architecture</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/runtime-Bun-f472b6?style=flat-square" alt="Bun">
-  <img src="https://img.shields.io/badge/lang-TypeScript-3178c6?style=flat-square" alt="TypeScript">
-  <img src="https://img.shields.io/badge/ui-OpenTUI-a855f7?style=flat-square" alt="OpenTUI">
+  <img src="https://img.shields.io/badge/runtime-Rust-000000?style=flat-square" alt="Rust">
+  <img src="https://img.shields.io/badge/lang-2024%20Edition-dea584?style=flat-square" alt="Rust 2024 Edition">
+  <img src="https://img.shields.io/badge/ui-ratatui%20%2B%20crossterm-4a5568?style=flat-square" alt="ratatui + crossterm">
+  <img src="https://img.shields.io/badge/providers-OpenAI%20%7C%20Anthropic%20%7C%20Google%20%7C%20Copilot%20%7C%20Ollama-7c3aed?style=flat-square" alt="Providers">
   <img src="https://img.shields.io/badge/license-MIT-7c3aed?style=flat-square" alt="License">
-  <img src="https://img.shields.io/badge/status-In%20Development-facc15?style=flat-square" alt="Status">
 </p>
